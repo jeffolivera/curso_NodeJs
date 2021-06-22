@@ -1,0 +1,27 @@
+{
+  "name": "repositorio-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "olamundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffolivera/curso_NodeJs.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "express",
+    "fs",
+    "path"
+  ],
+  "author": "Jeferson Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffolivera/curso_NodeJs/issues"
+  },
+  "homepage": "https://github.com/jeffolivera/curso_NodeJs#readme"
+}
