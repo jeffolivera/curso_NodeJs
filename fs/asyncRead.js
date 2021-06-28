@@ -9,5 +9,5 @@ async function read(){
 try{
     read().then(data => {console.log(data.toString())})
 } catch(error){
-    console.log(err)
+    console.log(err);
 }
