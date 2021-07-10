@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jeffolivera/curso_NodeJs/issues"
   },
-  "homepage": "https://github.com/jeffolivera/curso_NodeJs#readme"
+  "homepage": "https://github.com/jeffolivera/curso_NodeJs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.9"
+  }
 }
